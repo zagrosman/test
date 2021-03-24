@@ -42,7 +42,7 @@ PCR, Real-Time PCR, HRM, Protein purification, flavonoids/alkaloids extraction, 
 https://scholar.google.com/citations?user=ZglvH40AAAAJ&hl=en
 
 ### REFERENCES
-**Jelena Djordjevic
+**Jelena Djordjevic**
 Full Professor.
 Department of Agriculture, University of Belgrade, Serbia. 
 Email: jelenadjordj@gmail.com

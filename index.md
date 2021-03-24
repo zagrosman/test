@@ -33,9 +33,13 @@ PCR, Real-Time PCR, HRM, Protein purification, flavonoids/alkaloids extraction, 
 ### Selected publications 
 **Selected first-authored publications:**
 1) Rasouli, H. Yarani, R. Pociot, F, Popović-Djordjević, J.B. Anti-diabetic potential of plant alkaloids: Revisiting current findings and future perspectives. PharmacologSical Research, 2020. 
+
 2) Rasouli, H, Farzaei, M, Mansouri, K, Mohammadzadeh, S, Khodarahmi, R. Plant cell cancer: May natural phenolic compounds prevent onset and development of plant cell malignancy? A literature review. Molecules, 2016.
+
 3) Rasouli, H, Hosseini-Ghazvini, SMB, Adibi, H, Khodarahmi, R. Differential α-amylase/α-glucosidase inhibitory activities of plant-derived phenolic compounds: a virtual screening perspective for treatment of obesity and diabetes. Food and Function, 2017. 
-4) Rasouli, Hassan, Seyed Mohammad-Bagher Hosseini-Ghazvini, and Reza Khodarahmi. Therapeutic Potentials of the Most Studied Flavonoids: Highlighting Antibacterial and Antidiabetic Functionalities. Studies in Natural Products Chemistry. Vol. 60. Elsevier. 2019.  
+
+4) Rasouli, Hassan, Seyed Mohammad-Bagher Hosseini-Ghazvini, and Reza Khodarahmi. Therapeutic Potentials of the Most Studied Flavonoids: Highlighting Antibacterial and Antidiabetic Functionalities. Studies in Natural Products Chemistry. Vol. 60. Elsevier. 2019.
+  
 5) Rasouli, H., Popović-Djordjević, J., Sayyed, R.Z., Zarayneh, S., Jafari, M. and Fazeli-Nasab, B. Nanoparticles: A new threat to crop plants and soil rhizobia? Chapter 11, Sustainable Agriculture Reviews 41, SpringerNature. 2020. 
 
 **Link to Scholar profile**

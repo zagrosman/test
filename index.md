@@ -1,15 +1,18 @@
-## Welcome to Mr. Hassan Rasouli resume page
+## Hassan Rasouli
 
-You can use the [editor on GitHub](https://github.com/zagrosman/h3nrasouli/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Academic researcher
+## MARITAL STATUS &BIRTH DATE
+Single; Sunday, June 10, 1989 
+## LANGUAGE
+Kurdish, Persian and English
+## EDUCATION
+Ilam University
+BSc. Agronomy and Plant Breeding	Ilam, Iran.
+2007-2011
+Razi University
+MSc. Agricultural Biotechnology	Kermanshah, Iran. 
+2011-2013
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
 
 # Header 1
 ## Header 2

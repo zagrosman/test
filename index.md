@@ -31,7 +31,7 @@ NGS tools, RNA-Seq analysis tools, Docking & virtual screening, Molecular dynami
 PCR, Real-Time PCR, HRM, Protein purification, flavonoids/alkaloids extraction, cell culture, plant tissue propagation, bacterial culture and genome extraction, electrophoresis, Cloning, Cytotoxicity assay, essential oils extraction, etc. 
 
 ### Selected publications 
-**Selected first-authored publications:**
+
 1. Rasouli, H. Yarani, R. Pociot, F, Popović-Djordjević, J.B. Anti-diabetic potential of plant alkaloids: Revisiting current findings and future perspectives. PharmacologSical Research, 2020. 
 
 2. Rasouli, H, Farzaei, M, Mansouri, K, Mohammadzadeh, S, Khodarahmi, R. Plant cell cancer: May natural phenolic compounds prevent onset and development of plant cell malignancy? A literature review. Molecules, 2016.

@@ -42,7 +42,7 @@ PCR, Real-Time PCR, HRM, Protein purification, flavonoids/alkaloids extraction, 
 5. Rasouli, H., Popović-Djordjević, J., Sayyed, R.Z., Zarayneh, S., Jafari, M. and Fazeli-Nasab, B. Nanoparticles: A new threat to crop plants and soil rhizobia? Chapter 11, Sustainable Agriculture Reviews 41, SpringerNature. 2020. 
 
 ### Link to Scholar profile
-https://scholar.google.com/citations?user=ZglvH40AAAAJ&hl=en
+https://scholar.google.com/citations?user=ZglvH40AAAAJ&hl=en - automatic!
 
 ### REFERENCES
 **Jelena Djordjevic**

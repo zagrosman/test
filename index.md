@@ -1,5 +1,5 @@
 ## Hassan Rasouli
-![rasouli](https://user-images.githubusercontent.com/17006122/112389784-ef616f80-8d12-11eb-8a66-1e28e8527845.png = 3x4)
+![rasouli](https://user-images.githubusercontent.com/17006122/112389784-ef616f80-8d12-11eb-8a66-1e28e8527845.png | width=20)
 
 
 
